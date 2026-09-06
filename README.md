@@ -1,4 +1,4 @@
-# Claude Configuration
+# Claude Configuration for Researchers
 
 This file documents the personal instructions configured for Claude across sessions.
 
